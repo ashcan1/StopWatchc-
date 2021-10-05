@@ -1,0 +1,6 @@
+/home/ash/RiderProjects/test/DesignStopwatch/DesignStopwatch/bin/Debug/DesignStopwatch.exe
+/home/ash/RiderProjects/test/DesignStopwatch/DesignStopwatch/bin/Debug/DesignStopwatch.pdb
+/home/ash/RiderProjects/test/DesignStopwatch/DesignStopwatch/obj/Debug/DesignStopwatch.csprojAssemblyReference.cache
+/home/ash/RiderProjects/test/DesignStopwatch/DesignStopwatch/obj/Debug/DesignStopwatch.csproj.CoreCompileInputs.cache
+/home/ash/RiderProjects/test/DesignStopwatch/DesignStopwatch/obj/Debug/DesignStopwatch.exe
+/home/ash/RiderProjects/test/DesignStopwatch/DesignStopwatch/obj/Debug/DesignStopwatch.pdb
